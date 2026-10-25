@@ -1,0 +1,110 @@
+ * {box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+ .box1-title {width: 756px;
+    margin: 30px ;
+padding: 3px; 
+ }
+   .box1-text{ height: 78px;
+    top: 151px;
+    left: 100px;
+    border: 1px;
+    weight: 700;
+    style: bold;
+    size: 34px;
+    Line-height: 100%;
+    letter-spacing: 0%;
+    margin: 50px;
+    text-color: rgb(67, 66, 66);
+}
+.container1 {width: 55%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 50px 50px 100px;
+}
+
+.container2 {width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 50px 50px 100px;
+    border: 30px;
+}
+.box1 {width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 100px;
+}
+.box2 {width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box3 {width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box4 {width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box5 {width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box1-button {width: 200px;
+    height: 50px;
+    background: #00AB89;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 200 px;
+}
+.box2-button {width: 200px;
+    height: 50px;
+    background: #00AB89;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.box5-button {width: 200px;
+    height: 50px;
+    background: #00AB89;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.h1 {width: 2000px;
+    height: 2px;
+    top: 526px;
+    left:100px;
+    border: 1px;
+    background: #a7acac;
+    margin: 100px 50px 100px 50px;
+}
